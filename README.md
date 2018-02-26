@@ -21,3 +21,16 @@ In the future, this API can be developed to retrieve real informations got from 
 * Launch server with this command : `npm start`
 
 You can now acces the server at this url : `http://localhost:9999`
+
+
+## Unity
+
+### purpose
+
+A simple Unity project that simulate what the player will see in the AR device.
+For now it just displays the timecode retrieved from the API and the webcam
+
+### Usage
+
+* Launch the API (see above)
+* Open `/unity/Assets/ARKart.unity` with Unity3D
